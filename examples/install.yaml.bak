@@ -3,4 +3,4 @@ kind: Provider
 metadata:
   name: provider-btp-account
 spec:
-  package: sdischer-sap/provider-btp-account:v0.1.0
+  package: upbound/provider-btp-account:v0.1.0

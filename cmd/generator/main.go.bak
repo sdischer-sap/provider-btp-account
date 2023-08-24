@@ -11,7 +11,7 @@ import (
 
 	"github.com/upbound/upjet/pkg/pipeline"
 
-	"github.com/sdischer-sap/provider-btp-account/config"
+	"github.com/upbound/provider-btp-account/config"
 )
 
 func main() {

@@ -5,14 +5,14 @@ metadata:
   annotations:
     controller-gen.kubebuilder.io/version: v0.11.3
   creationTimestamp: null
-  name: providerconfigusages.btp-account.upbound.io
+  name: providerconfigusages.template.upbound.io
 spec:
-  group: btp-account.upbound.io
+  group: template.upbound.io
   names:
     categories:
     - crossplane
     - provider
-    - btp-account
+    - template
     kind: ProviderConfigUsage
     listKind: ProviderConfigUsageList
     plural: providerconfigusages

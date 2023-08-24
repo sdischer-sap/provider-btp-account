@@ -10,12 +10,12 @@ import (
 
 	ujconfig "github.com/upbound/upjet/pkg/config"
 
-	"github.com/sdischer-sap/provider-btp-account/config/null"
+	"github.com/upbound/provider-btp-account/config/null"
 )
 
 const (
 	resourcePrefix = "btp-account"
-	modulePath     = "github.com/sdischer-sap/provider-btp-account"
+	modulePath     = "github.com/upbound/provider-btp-account"
 )
 
 //go:embed schema.json

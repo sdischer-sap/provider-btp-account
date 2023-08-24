@@ -1,9 +1,9 @@
-# Provider btp-account
+# Provider Template
 
 `provider-btp-account` is a [Crossplane](https://crossplane.io/) provider that
 is built using [Upjet](https://github.com/upbound/upjet) code
 generation tools and exposes XRM-conformant managed resources for the
-btp-account API.
+Template API.
 
 ## Getting Started
 

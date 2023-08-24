@@ -5,9 +5,9 @@ metadata:
   annotations:
     controller-gen.kubebuilder.io/version: v0.11.3
   creationTimestamp: null
-  name: storeconfigs.btp-account.upbound.io
+  name: storeconfigs.template.upbound.io
 spec:
-  group: btp-account.upbound.io
+  group: template.upbound.io
   names:
     categories:
     - crossplane

@@ -15,7 +15,7 @@ import (
 
 	"github.com/upbound/upjet/pkg/terraform"
 
-	"github.com/sdischer-sap/provider-btp-account/apis/v1beta1"
+	"github.com/upbound/provider-btp-account/apis/v1beta1"
 )
 
 const (

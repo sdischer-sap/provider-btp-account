@@ -18,8 +18,8 @@ import (
 	"github.com/upbound/upjet/pkg/terraform"
 	ctrl "sigs.k8s.io/controller-runtime"
 
-	v1alpha1 "github.com/sdischer-sap/provider-btp-account/apis/null/v1alpha1"
-	features "github.com/sdischer-sap/provider-btp-account/internal/features"
+	v1alpha1 "github.com/upbound/provider-btp-account/apis/null/v1alpha1"
+	features "github.com/upbound/provider-btp-account/internal/features"
 )
 
 // Setup adds a controller that reconciles Resource managed resources.

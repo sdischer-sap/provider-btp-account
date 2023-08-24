@@ -9,8 +9,8 @@ import (
 
 	"github.com/upbound/upjet/pkg/controller"
 
-	resource "github.com/sdischer-sap/provider-btp-account/internal/controller/null/resource"
-	providerconfig "github.com/sdischer-sap/provider-btp-account/internal/controller/providerconfig"
+	resource "github.com/upbound/provider-btp-account/internal/controller/null/resource"
+	providerconfig "github.com/upbound/provider-btp-account/internal/controller/providerconfig"
 )
 
 // Setup creates all controllers with the supplied logger and adds them to
